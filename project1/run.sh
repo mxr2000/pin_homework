@@ -1,0 +1,1 @@
+pin -t ../obj-intel64/project1.so --  ~/software-security/moon-buggy-master/moon-buggy
